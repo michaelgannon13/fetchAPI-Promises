@@ -1,0 +1,4 @@
+- Http request using fetch api
+- Promise chaining
+- Transoforming data object using .map() and .join() to display a list of names
+- Interpolation and string variables
